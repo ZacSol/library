@@ -14,6 +14,6 @@ function titleCase(string){
 }
 
 function saySomething(){
-console.log("I am a turtle.");
+console.log("I'm giving up on you.");
 
 }
